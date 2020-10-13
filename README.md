@@ -2,7 +2,6 @@
 ## A Binary Classification with NLP
 ### Nikesh Suthar - BrainStation 2020 Dipolma Graduate 
 ___
-
 ## Project Overview
 
 As an avid gamer, I've always had trouble finding new games to play and usually go back to the classics. What I wanted to acheive find a way to choose a new game without knowing the title, or what platforms its played on or even who created the game. I wanted to find a way to play new games without bias so I decided that I would want to play games which were higly rated. The only rating system in place for games would be metascore. Since metacritic is a highly known rating website, I chose their rating system because I believe it is the only relible rating system for games.
