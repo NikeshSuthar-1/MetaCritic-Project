@@ -18,7 +18,7 @@ All the data was gathered from MetaCritics website, I looked into all the games 
 
 Some interseting trends I found throughout the process of my data set were:
 * Metascore Frequency 
-![Image](\Images\Histo.png)
+![Image](/Images/Histo.png)
 This trend shows that the majority of games rating is between 75-85 from all platforms.
    
 * Mean Metascore of each platform
