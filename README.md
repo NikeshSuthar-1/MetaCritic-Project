@@ -22,15 +22,15 @@ Some interseting trends I found throughout the process of my data set were:
 This trend shows that the majority of games rating is between 75-85 from all platforms.
    
 * Mean Metascore of each platform
-![Image](\Images\MPM.png)
+![Image](/Images/MPM.png)
 This trend shows the mean metascore for each platform. Each platform averages around 60-75, just the number of games vary.
 
 * Total Number of Games per Platform
-![Image](\Images\platform_counts.png)
+![Image](/Images/platform_counts.png)
 This trend shows the total number of games per platform. As we can see in the graph above, PC has the most amount of games released followed by iOS.
 
 * Weighted Words from TFIDF
-![Image](\Images\words.png)
+![Image](/Images/words.png)
 The word game was the most highly rated word. Any combination of these top 50 words would make any game have a high rating. 
 
 ## Model
